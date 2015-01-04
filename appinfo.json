@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "peterjhinchliffe@gmail.com",
+    "longName": "test1",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "test1",
+    "uuid": "05883962-ad3d-40da-b4fe-0717aed90677",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
